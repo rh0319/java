@@ -45,7 +45,7 @@ public class Main {
 	 */
 	public Main() {
 		initialize();
-	}
+	}// ¡÷ºÆ
 
 	/**
 	 * Initialize the contents of the frame.
